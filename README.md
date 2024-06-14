@@ -1,0 +1,1 @@
+This is just an algorithm that takes a possibly cyclic graph and restructures it into "cycle groups" which contain nodes that form a cycle and reference other cycle groups. The resulting graph is a DAG.
